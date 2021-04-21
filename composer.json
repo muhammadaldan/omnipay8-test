@@ -33,6 +33,7 @@
     "phpunit/phpunit": "^8"
   },
   "require-dev": {
+    "muhammadaldan/omnipay8-common": "^3",
     "symfony/http-foundation": "^3|^4"
   }
 }
