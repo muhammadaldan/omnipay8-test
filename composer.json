@@ -34,7 +34,7 @@
     "phpunit/phpunit": "^8"
   },
   "require-dev": {
-    "muhammadaldan/omnipay8-common": "dev-master",
+    "muhammadaldan/omnipay8-common": "1.0",
     "symfony/http-foundation": "^3|^4"
   }
 }
